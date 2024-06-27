@@ -1,0 +1,6 @@
+.venv/
+training/
+runs/
+models/
+*.pyc
+stubs/
